@@ -1,0 +1,8 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="#667eea"/>
+  <circle cx="100" cy="70" r="30" fill="white" opacity="0.9"/>
+  <text x="100" y="78" text-anchor="middle" fill="#667eea" font-family="Arial, sans-serif" font-size="20" font-weight="bold">🎭</text>
+  <text x="100" y="130" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">VibePulse</text>
+  <text x="100" y="150" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">Discover Your Events</text>
+</svg>
+

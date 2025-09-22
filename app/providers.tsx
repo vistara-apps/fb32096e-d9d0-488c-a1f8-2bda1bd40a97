@@ -1,6 +1,6 @@
 'use client';
 
-import { MiniKitProvider } from '@coinbase/minikit';
+import { MiniKitProvider } from '@worldcoin/minikit-js';
 import { base } from 'wagmi/chains';
 
 export function Providers({ children }: { children: React.ReactNode }) {
