@@ -109,10 +109,24 @@ export function EventCard({
             </div>
             
             <div className="flex space-x-2">
-              <CTAButton variant="secondary" size="sm">
+              <CTAButton
+                variant="secondary"
+                size="sm"
+                onClick={() => {
+                  // Handle interest action
+                  console.log('User interested in event:', event.eventId);
+                }}
+              >
                 Interested
               </CTAButton>
-              <CTAButton variant="primary" size="sm">
+              <CTAButton
+                variant="primary"
+                size="sm"
+                onClick={() => {
+                  // Handle learn more action
+                  console.log('User wants to learn more about event:', event.eventId);
+                }}
+              >
                 Learn More
               </CTAButton>
             </div>

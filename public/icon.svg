@@ -1,0 +1,11 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" rx="20" fill="#667eea"/>
+  <circle cx="100" cy="80" r="25" fill="white"/>
+  <path d="M85 80 L95 90 L115 70" stroke="#667eea" stroke-width="3" fill="none"/>
+  <rect x="70" y="120" width="60" height="40" rx="8" fill="white"/>
+  <circle cx="85" cy="135" r="3" fill="#667eea"/>
+  <circle cx="100" cy="135" r="3" fill="#667eea"/>
+  <circle cx="115" cy="135" r="3" fill="#667eea"/>
+  <text x="100" y="175" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">VibePulse</text>
+</svg>
+

@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgyY2Q4NWEwOTMyNjFmNTkyNzA4MDRBNkVBNjk3Q2VBNENlQkVjYWZFIn0",
+    "payload": "eyJkb21haW4iOiJleGFtcGxlLmNvbSJ9",
+    "signature": "MHhmNGQzN2M2OTk4NDIwZDNjZWVjYTNiODllYzJkMjAwOTkyMDEwOGVhNTFlYWI3NjAyN2QyMmM1MDVhNzIyMWY2NTRiYmRlZmQ0NGQwOWNiY2M2NmI2B7VmNGZiMmZiOGYzNDVjODVmNmQ3ZTVjNzI3OWNmMGY4ZTA2ODYzM2FjZjFi"
+  },
+  "frame": {
+    "version": "1",
+    "name": "VibePulse",
+    "homeUrl": "https://your-domain.vercel.app",
+    "iconUrl": "https://your-domain.vercel.app/icon.png",
+    "splashImageUrl": "https://your-domain.vercel.app/splash.png",
+    "splashBackgroundColor": "#ffffff",
+    "webhookUrl": "https://your-domain.vercel.app/api/webhook",
+    "subtitle": "Discover local events that match your vibe",
+    "description": "A Base Mini App for discovering local events tailored to your interests and social connections. Find parties, meetups, and gatherings with like-minded people.",
+    "screenshotUrls": [
+      "https://your-domain.vercel.app/screenshot1.png",
+      "https://your-domain.vercel.app/screenshot2.png"
+    ],
+    "primaryCategory": "social",
+    "tags": ["events", "social", "discovery", "local", "networking"],
+    "heroImageUrl": "https://your-domain.vercel.app/hero.png",
+    "tagline": "Discover events that match your mood and connections",
+    "ogTitle": "VibePulse - Event Discovery Made Social",
+    "ogDescription": "Find local events tailored to your interests and see what your friends are attending",
+    "ogImageUrl": "https://your-domain.vercel.app/og-image.png"
+  }
+}
+
